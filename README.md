@@ -3,6 +3,7 @@
 <a href="https://www.instagram.com/juanmalachias/"><img src="https://img.shields.io/badge/-@juanmalachias-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/juanmalachias/"><img src="https://img.shields.io/badge/-Juan%20Malachias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/Juanmalachias"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://juanmalachias.netlify.app/#In%C3%ADcio"><img src="https://img.shields.io/badge/-Portfólio-4A90E2?style=flat-square&logo=about.me&logoColor=white"/></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
@@ -14,6 +15,7 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
+
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -22,10 +24,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 
 <h3>⚙️ &nbsp;Back-end:</h3>
+
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 <h2>🚀 &nbsp;Estatísticas do GitHub</h2>
+
 ![Estatísticas do Juan Malachias](https://github-readme-stats.vercel.app/api?username=Juanmalachias&show_icons=true&theme=dracula)
 
 Estou à disposição para responder a qualquer dúvida que possa surgir. Obrigado por me ouvirem!

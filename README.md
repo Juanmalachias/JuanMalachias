@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1>👋 &nbsp;Olá, eu sou o Juan, um aspirante a desenvolvedor apaixonado pela tecnologia!</h1>
+<p align="center">
+<a href="https://www.instagram.com/juanmalachias/"><img src="https://img.shields.io/badge/-@juanmalachias-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juanmalachias/"><img src="https://img.shields.io/badge/-Juan%20Malachias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/Juanmalachias"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=GitHub&logoColor=white"/></a>
+</p>
 
-<!--
-**Juanmalachias/Juanmalachias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
 
-Here are some ideas to get you started:
+- 💻 &nbsp; Tudo começou aos meus 10 anos, quando ganhei meu primeiro computador. Fiquei animado e, como toda criança curiosa, comecei a mexer nele para descobrir como funcionava. Esse momento despertou minha paixão pela tecnologia.
+- 📦 &nbsp; Ao longo dos anos, trabalhei nas áreas de atendimento ao cliente e logística, onde participei da implementação de um novo sistema de e-commerce. Essa experiência fortaleceu meu desejo de me desenvolver na área de tecnologia.
+- 🎓 &nbsp; Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e participei de um bootcamp de Java, adquirindo várias competências técnicas e interpessoais.
+- 🚀 &nbsp; Estou em transição de carreira e buscando uma oportunidade como Desenvolvedor Júnior. Criei um portfólio que reflete meu progresso e aprendizado ao longo do tempo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+<h3>⚙️ &nbsp;Back-end:</h3>
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+
+<h2>🚀 &nbsp;Estatísticas do GitHub</h2>
+
+![Estatísticas do Juan Malachias](https://github-readme-stats.vercel.app/api?username=Juanmalachias&show_icons=true&theme=dracula)
+
+
+
+Estou à disposição para responder a qualquer dúvida que possa surgir. Obrigado por me ouvirem!

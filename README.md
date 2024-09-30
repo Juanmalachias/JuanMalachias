@@ -30,6 +30,9 @@
 
 <h2>🚀 &nbsp;Estatísticas do GitHub</h2>
 
-![Estatísticas do Juan Malachias](https://github-readme-stats.vercel.app/api?username=Juanmalachias&show_icons=true&theme=dracula)
+<div>
+  <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juanmalachias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juanmalachias&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 Estou à disposição para responder a qualquer dúvida que possa surgir. Obrigado por me ouvirem!

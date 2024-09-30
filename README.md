@@ -35,4 +35,4 @@
   <img align="right" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juanmalachias&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-Estou à disposição para responder a qualquer dúvida que possa surgir. Obrigado por me ouvirem!
+Estou à disposição para responder a qualquer dúvida que possa surgir!
